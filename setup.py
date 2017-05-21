@@ -6,7 +6,7 @@ setup(
     version='1.0.0',
     packages=['dogyear'],
     url='https://github.com/Code-ReaQtor/DogYears',
-    download_url='https://github.com/Code-ReaQtor/DogYears/archive/1.0.1',
+    download_url='https://github.com/Code-ReaQtor/DogYears/archive/1.0.1.tar.gz',
     license='MIT',
     author='Ronie Martinez',
     author_email='ronmarti18@gmail.com',
